@@ -27,16 +27,16 @@
     </section><!-- End Contact Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section class="contact" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <section class="myform" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
       <div class="container">
 
         <div class="row">
  
           <div class="col-lg-12">
-            <form action="" method="post" role="form" class="php-email-form">
+            <form autocomplete="off" action="" method="post" role="form" class="forma">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required autocomplete="off">
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
