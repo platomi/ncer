@@ -85,6 +85,12 @@
   .myform .forma input {
     padding: 10px 15px;
   }
+  .myform .forma select {
+    padding: 10px 15px;
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
   .myform .forma textarea {
     padding: 12px 15px;
   }
@@ -114,3 +120,4 @@
       transform: rotate(360deg);
     }
   }
+

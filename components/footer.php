@@ -5,20 +5,30 @@
     <div class="footer-newsletter">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+          <div class="col-lg-6 mt-3">
+            <h4>Are you interested? </h4>
+            <!-- <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p> -->
+            <!-- <a href="registration.php" >Register</a> -->
+            <!-- <a type="button" class="btn btn-primary">Primary</a> -->
+            <!-- <div class="text-center"><button type="submit">Send Message</button></div> -->
+            <div class="d-grid gap-2 col-6">
+              <button style="padding: 20px 0px" class="btn btn-outline-primary" type="button">Register</button> 
+            </div>
           </div>
-          <div class="col-lg-6">
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+
+          <div class="col-lg-6 mt-3">
+            <h4>RECEIVE AN INVITATION</h4>
+            <p>Please provide your email address to receive official invitation of NCER 2021.</p>
+            <form action="" method="post" class="mt-2">
+              <input class="form-control" type="email" name="email" ><input type="submit" value="Send">
             </form>
           </div>
+
         </div>
       </div>
     </div>
 
-    <div class="footer-top">
+    <!-- <div class="footer-top">
       <div class="container">
         <div class="row">
 
@@ -69,18 +79,19 @@
 
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>NCER 2021</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        Developed by <a href="">NEMSU - Cantilan</a>
       </div>
     </div>
   </footer><!-- End Footer -->

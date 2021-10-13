@@ -5,7 +5,8 @@
 
 <head>
   <?php include 'components/head.php'; ?>
-  <title>Moderna Bootstrap Template - Index</title>
+  <title>NCER - National Conference on Educational Research</title>
+
 </head>
 
 <body>
@@ -20,29 +21,29 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>SDSSU</span></h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <h2 class="animate__animated animate__fadeInDown">National Conference on<span> Educational Research</span></h2>
+          <p class="animate__animated animate__fadeInUp">"Educational Research and Innovation: Teaching-Learning Processes in the New Normal"</p>
+          <!-- <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a> -->
         </div>
       </div>
 
       <!-- Slide 2 -->
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">NCER</h2>
+          <p class="animate__animated animate__fadeInUp">welcomes and accepts scientific contributions on the presentation of original research papers in any of the following.</p>
           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
-      </div>
+      </div> -->
 
       <!-- Slide 3 -->
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
           <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
           <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
-      </div>
+      </div> -->
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
@@ -51,14 +52,14 @@
       <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
         <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
       </a>
-
+      
     </div>
   </section><!-- End Hero -->
 
   <main id="main">
 
     <!-- ======= Services Section ======= -->
-    <section class="services">
+    <!-- <section class="services">
       <div class="container">
 
         <div class="row">
@@ -97,10 +98,10 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>End Services Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
+    <!-- <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
       <div class="container">
 
         <div class="row">
@@ -127,15 +128,15 @@
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </section>End Why Us Section -->
 
     <!-- ======= Features Section ======= -->
     <section class="features">
       <div class="container">
 
         <div class="section-title">
-          <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h3>Features</h3>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row" data-aos="fade-up">
