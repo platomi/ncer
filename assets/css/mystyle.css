@@ -121,3 +121,13 @@
     }
   }
 
+  .myform .forma input[type=submit] {
+    background: #68A4C4;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+  }
+  .myform .forma input[type=submit]:hover {
+    background: #8dbad2;
+  }

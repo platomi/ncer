@@ -7,12 +7,9 @@
         <div class="row">
           <div class="col-lg-6 mt-3">
             <h4>Are you interested? </h4>
-            <!-- <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p> -->
-            <!-- <a href="registration.php" >Register</a> -->
-            <!-- <a type="button" class="btn btn-primary">Primary</a> -->
-            <!-- <div class="text-center"><button type="submit">Send Message</button></div> -->
+            
             <div class="d-grid gap-2 col-6">
-              <button style="padding: 20px 0px" class="btn btn-outline-primary" type="button">Register</button> 
+              <a href="registration.php" style="padding: 20px 0px" class="btn btn-outline-primary" type="button">Register</a> 
             </div>
           </div>
 

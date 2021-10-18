@@ -6,7 +6,9 @@
 <head>
   <?php include 'components/head.php'; ?>
   <style>
-    select:invalid  { color: gray; }
+    select:invalid{ 
+      color: gray !important;
+    }
   </style>
 </head>
 
@@ -36,37 +38,61 @@
         <div class="row">
  
           <div class="col-lg-12">
-            <form autocomplete="off" action="" method="post" role="form" class="forma">
+            <form autocomplete="off" action="server/actions/register.php" method="post" role="form" class="forma">
 
               <div class="row">
                 <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Title" required autocomplete="off">
+                  <input type="text" name="title" class="form-control" placeholder="Title" required autocomplete="off">
                 </div>                
               </div>
 
               <div class="row">
                 <div class="form-group col-lg-6 mt-3">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Full Name" required autocomplete="off">
+                  <input type="text" name="fullname" class="form-control" placeholder="Full Name" required autocomplete="off">
                 </div>      
                 <div class="form-group col-lg-6 mt-3">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Email Address" required autocomplete="off">
+                  <input type="email" name="email" class="form-control" placeholder="Email Address" required autocomplete="off">
                 </div>            
               </div>
 
               <div class="row">
                 <div class="form-group col-lg-6 mt-3">
                   <select name="gender" class="form-control" placeholder="Gender" required>
-										<option selected disabled hidden>Gender</option>
-										<option value="male">Male</option>
-										<option value="female">Female</option>
+										<option selected disabled hidden value="">Gender</option>
+										<option value="Male">Male</option>
+										<option value="Female">Female</option>
 									</select>
                 </div>      
                 <div class="form-group col-lg-6 mt-3">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Email Address" required autocomplete="off">
+                  <input type="number" name="mobile" class="form-control" placeholder="Mobile Number" required autocomplete="off">
                 </div>            
               </div>
+
+              <div class="row">
+                <div class="form-group mt-3">
+                  <input type="text" name="affiliation" class="form-control" placeholder="Affiliation/Agency" autocomplete="off">
+                </div>                
+              </div>
+
+              <div class="row">
+                <div class="form-group mt-3">
+                  <input type="text" name="designation" class="form-control" placeholder="Designation" required autocomplete="off">
+                </div>                
+              </div>
+
+
+              <div class="my-3"> 
+                <?php if(isset($_SESSION['returned'])){ ?>
+
+                <div class="alert <?= $_SESSION['returned']['class'] ?>">
+                  <?= $_SESSION['returned']['message'] ?>
+                </div> 
+
+                <?php unset($_SESSION['returned']); } ?>
+              </div>
               
-              <div class="text-center mt-3 float-end"><button type="submit">Submit</button></div>
+               
+              <div class="text-center mt-3 float-end"><input type="submit" value="Submit" name="register"></input></div>
             </form>
           </div>
 
