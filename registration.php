@@ -94,8 +94,7 @@
                
               <div class="text-center mt-3 float-end"><input type="submit" value="Submit" name="register"></input></div>
             </form>
-          </div>
-
+          </div> 
         </div>
 
       </div>

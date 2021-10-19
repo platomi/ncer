@@ -28,13 +28,13 @@
       </div>
 
       <!-- Slide 2 -->
-      <!-- <div class="carousel-item">
+      <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">NCER</h2>
-          <p class="animate__animated animate__fadeInUp">welcomes and accepts scientific contributions on the presentation of original research papers in any of the following.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <h2 class="animate__animated animate__fadeInDown">National Conference on<span> Educational Research</span></h2> 
+          <p class="animate__animated animate__fadeInUp">The NCER's main goal is to lead, promote, and improve the communications between among educational researchers across the country</p>
+          <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
-      </div> -->
+      </div>
 
       <!-- Slide 3 -->
       <!-- <div class="carousel-item">
@@ -150,7 +150,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-1.jpg" alt="...">
+                <img src="assets/img/tracks/Pedagogical.jpg " alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Pedagogical Approaches and Innovation</a></h5>
@@ -162,7 +162,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-2.jpg" alt="...">
+                <img src="assets/img/tracks/science.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Science Technology and Mathematics Education</a></h5>
@@ -175,7 +175,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-3.jpg" alt="...">
+                <img src="assets/img/tracks/language.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Language Education</a></h5>
@@ -187,7 +187,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-4.jpg" alt="...">
+                <img src="assets/img/tracks/tech.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Technology Education</a></h5>
@@ -200,7 +200,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-4.jpg" alt="...">
+                <img src="assets/img/tracks/multicultural.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Multicultural Education</a></h5>
@@ -213,7 +213,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-details-4.jpg" alt="...">
+                <img src="assets/img/tracks/business.jpg" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">Business Management Education</a></h5>
