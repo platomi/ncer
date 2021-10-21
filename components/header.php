@@ -7,7 +7,7 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <a href="index.php"><img src="assets/img/SDSSULOGO3.png" alt="" class="img-fluid"></a>
+        <a href="/"><img src="assets/img/SDSSULOGO3.png" alt="" class="img-fluid"></a>
         <!-- <h1 class="text-light"><a href="index.html"><span>NCER</span></a></h1>         -->
       </div>
 

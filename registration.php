@@ -39,6 +39,17 @@
  
           <div class="col-lg-12">
             <form autocomplete="off" action="server/actions/register.php" method="post" role="form" class="forma">
+            
+            <div class="row">
+              <div class="form-group">
+                <?php if(isset($_SESSION['returned'])){ ?>
+
+                    <div class="alert <?= $_SESSION['returned']['class'] ?>">
+                      <?= $_SESSION['returned']['message'] ?>
+                    </div>  
+                <?php unset($_SESSION['returned']); } ?>
+              </div>
+            </div>
 
               <div class="row">
                 <div class="form-group">
@@ -70,7 +81,7 @@
 
               <div class="row">
                 <div class="form-group mt-3">
-                  <input type="text" name="affiliation" class="form-control" placeholder="Affiliation/Agency" autocomplete="off">
+                  <input type="text" name="affiliation" class="form-control" placeholder="Affiliation/Agency" required autocomplete="off">
                 </div>                
               </div>
 
@@ -82,17 +93,10 @@
 
 
               <div class="my-3"> 
-                <?php if(isset($_SESSION['returned'])){ ?>
-
-                <div class="alert <?= $_SESSION['returned']['class'] ?>">
-                  <?= $_SESSION['returned']['message'] ?>
-                </div> 
-
-                <?php unset($_SESSION['returned']); } ?>
-              </div>
-              
                
+              </div> 
               <div class="text-center mt-3 float-end"><input type="submit" value="Submit" name="register"></input></div>
+                  <br><br>
             </form>
           </div> 
         </div>
