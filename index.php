@@ -22,7 +22,7 @@
       <div class="carousel-item active">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">National Conference on<span> Educational Research</span></h2>
-          <p class="animate__animated animate__fadeInUp">"Educational Research and Innovation: Teaching-Learning Processes in the New Normal"</p>
+          <p class="h4 animate__animated animate__fadeInUp">"Educational Research and Innovation: Teaching-Learning Processes in the New Normal"</p>
           <!-- <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a> -->
         </div>
       </div>
@@ -31,10 +31,19 @@
       <div class="carousel-item">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">National Conference on<span> Educational Research</span></h2> 
-          <p class="animate__animated animate__fadeInUp">The NCER's main goal is to lead, promote, and improve the communications between among educational researchers across the country</p>
+          <p class="animate__animated animate__fadeInUp">The <strong>NCER</strong> brings together academicians, government officials, and industry experts to exchange research findings, ideas, and perspectives on a wide range of strands.</p>
           <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
+
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">CALL FOR PAPERS</h2> 
+          <p class="animate__animated animate__fadeInUp"> NCER 2021 welcomes and accepts scientific contributions on the presentation of original research papers in any of the following tracks: Pedagogical Approaches and Innovation, Science Technology and mathematics Education, Language Education Technology Education, Multicultural Education, Business Management Education</p>
+          <a href="guidelines.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+        </div>
+      </div>
+
 
       <!-- Slide 3 -->
       <!-- <div class="carousel-item">
@@ -70,7 +79,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink"> 
             <div class="icon"><i class="bi bi-clock"></i></div> 
-              <h4 class="title"><a href="">October 25, 2021</a></h4>
+              <h4 class="title"><a href="">November 05, 2021</a></h4>
               <p class="description" style="width:500px" ><center>Deadline for the Submission of Abstracts</center></p>
             </div>
           </div>
@@ -78,7 +87,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan"> 
             <div class="icon"><i class="bi bi-bell"></i></div> 
-              <h4 class="title"><a href="">November 05, 2021</a></h4>
+              <h4 class="title"><a href="">November 10, 2021</a></h4>
               <p class="description" style="width:500px"><center>Notice of Abstract/Paper Acceptance</center></p>
             </div>
           </div>
@@ -86,7 +95,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green"> 
               <div class="icon"><i class="bi bi-calendar-event"></i></div> 
-              <h4 class="title"><a href="">November 15, 2021</a></h4>
+              <h4 class="title"><a href="">November 18, 2021</a></h4>
               
               <p class="description" >Deadline for the Submission of Revised Abstract and Complete Paper with Presentation (PPT) </p>
             
@@ -105,6 +114,33 @@
 
       </div>
     </section>
+    <section class="features">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up"> 
+          <h3> The NCER's main goal is to lead, promote, and improve the communications between among educational researchers across the country. this conference aims to.</h3>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-5">
+            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-4"> 
+            <p >
+              1. Provide a forum to disseminate recent educatinal and pedagogical practices aligned with higher education research agenda.
+            </p>
+            <p>
+              2. Encourage and empower new researchers to undertake high quality research particularly in the field of education.
+            </p>
+             <p>
+               3. Promote exchange of innovative ideas for possible collaborative research works in the future.
+             </p>
+          </div>
+        </div>
+ 
+      </div>
+    </section><!-- End Features Section -->
+
    <!-- End Services Section  -->
 
     <!-- ======= Why Us Section ======= -->

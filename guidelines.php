@@ -29,15 +29,41 @@
 
     <section class="service-details">
       <div class="container">  
-
-        <h3>Call For Papers</h3>  
-        <p style="text-align: justify;"> &emsp; The hosting of "National Conference on Educational Research (NCER)" opens a grate avenue for promoting and promulgating scientific researches related to teaching practices. pedagogical skills, science technology, languages, multicultural-society and business management education. This is a scientific conference that brings together academicians, government officials, and industry experts to exchange research findings, ideas, and perspectives on a wide range of strands. The NCER provides the acquisition of a new skills set needed for global communication and competitiveness.</p>
-        <br> 
-        <h3>Abstract Submission:</h3> 
-        <div style="margin-left: 30px">
+        <div class="section-title" data-aos="fade-down"> 
+            <h3> CALL FOR PAPERS </h3>
+        </div>  
+ 
+        <p style="text-align: justify;" data-aos="fade-up"> &emsp; <strong> NCER 2021 </strong> welcomes and accepts scientific contributions on the presentation of original research papers in any of the following tracks:
+        <ol style="margin-left:20px" type="A" data-aos="fade-up">
+          <li style="font-weight:bold;">
+              Pedagogical Approaches and Innovation
+          </li>
+          <li style="font-weight:bold;">
+          Science Technology and mathematics Education
+          </li>
+          <li style="font-weight:bold;">
+          Language Education
+          </li>
+          <li style="font-weight:bold;">
+          Technology Education
+          </li>
+          <li style="font-weight:bold;">
+          Multicultural Education 
+          </li>
+          <li style="font-weight:bold;">
+          Business Management Education
+          </li>
+        </ol>
+        </p>
+       
+        <p style="text-align: justify;" data-aos="fade-up"> &emsp; Interested participants who presented their papers may wish to publish on the official research journal of North Eastern Mindanao State University, the SDSSU Multidisciplinary Research Journal (SMJR).
+      
+        
+        <h3 data-aos="fade-up">Abstract Submission:</h3> 
+        <div style="margin-left: 30px" data-aos="fade-up">
             <p>1. Submitted abstract should be in English. <br>
             2. The research should be an original output in 1 of the aforementioned tracks.<br>
-            3. Abstracts should be submitted on or before the last day of submission following the prescribed format:</p>
+            3. Abstracts should be submitted on or before November 5, 2021, the last day of submission following the prescribed format:</p>
                 <div style="margin-left: 30px">
                     <p style="margin-top: -15px; text-align: justify;"><span><i class="bi bi-check2-circle" style="color: green; font-size: 20px;"></i></span> <b>Title. </b>The title of the paper should be centered, in all capital letters, type written in bold, 11 pts, Arial and arranged in an inverted pyramid. The title must accurately describe the research paper and must not contain abbreviations, proprietary names, chemical formulas, outdated terminologies and jargons.</p>
 
@@ -51,8 +77,8 @@
         </div>
   
          <br>
-        <h3>Scientific Papers: </h3>
-        <div style="margin-left: 30px">
+        <h3 data-aos="fade-up">Scientific Papers: </h3>
+        <div style="margin-left: 30px" data-aos="fade-up">
             <p>Competing scientific papers for the Best Paper Award is required to submit the full paper following, but not limited to, the specified format below:</p>
             <p>1. The manuscript should be in English, typewritten double-spaced in a letter size (8.5” x 11”) bond paper, using 11-point Arial font. The margin should be 1.5 inches on the left-hand side and 1 inch on top, bottom and right sides of bond paper. Page number should appear on the upper right-hand corner of the page. The paper should not exceed 16 pages, including Figures and Tables. <br>
             2. The sequence of contents of the manuscript - The manuscript should be organized in the following order:
@@ -69,8 +95,8 @@ Author(s) full name are typewritten in bold, lower case except the first letter,
                 </div> 
         </div>
         <br>
-        <h3>Oral Presentation: </h3>
-        <div style="margin-left: 30px">
+        <h3 data-aos="fade-up">Oral Presentation: </h3>
+        <div style="margin-left: 30px" data-aos="fade-up">
             <p style="text-align: justify;">1. Oral Presentation will be done on December 4-5, 2021 via zoom conferencing platform. <br>
             2. Each presenter will be given a total of fifteen minutes, ten minutes is allotted to the presentation of the salient points of the paper, and five minutes for clarificatory questions for the panel of adjudicators. The allotted time must be observed properly. The moderator will interrupt the presentation if the presenter exceeded in time.<br>
             3. The presenter must use 2003 MS powerpoint version document during the presentation with a maximum of 20 slides, for a 10-minute presentation. Slides must be readable from at least 10 feet. <br>
