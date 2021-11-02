@@ -262,6 +262,75 @@
 
       </div>
     </section><!-- End Service Details Section -->
+
+    <div class="section-title">
+      <h2>Speaker</h2>
+    </div> 
+
+    <!-- ======= Team Section ======= -->
+    <section class="team" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+      <div class="container">
+
+        <div class="row">
+
+        <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/speaker/Inero Valbuena Ancho.jfif" class="img-fluid" alt=""> 
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque. Dolores eum non.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/speaker/Amelia-Buan.jpg" class="img-fluid" alt=""> 
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque. Dolores eum non.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/speaker/Dr. Dexter Buted.jfif" class="img-fluid" alt=""> 
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque. Dolores eum non.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/speaker/Glenda de Lara.jpg" class="img-fluid" alt=""> 
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque. Dolores eum non.</p>
+              </div>
+            </div>
+          </div> 
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+
  
 
   </main><!-- End #main -->

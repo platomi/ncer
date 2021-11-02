@@ -16,15 +16,8 @@
           <div class="col-lg-6 mt-3">
             <h4>RECEIVE AN INVITATION</h4>
             <p>Please provide your email address to receive official invitation of NCER 2021.</p>
-
-            <!-- alert message  -->
-            <?php if(isset($_SESSION['returned'])){ ?> 
-              <div class="alert <?= $_SESSION['returned']['class'] ?>">
-                <?= $_SESSION['returned']['message'] ?>
-              </div>  
-            <?php unset($_SESSION['returned']); } ?>
-
-            <form action="server/actions/invitation.php" method="post" class="mt-2">
+ 
+            <form action="" method="post" class="mt-2">
               <input class="form-control" type="email" name="email" ><input type="submit" value="Send" name="inviteme">
             </form>
           </div>
